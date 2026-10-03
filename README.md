@@ -28,8 +28,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=RITESH7275&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square"/>
-
 </div>
 
 ---
