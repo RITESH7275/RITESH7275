@@ -57,3 +57,21 @@ I enjoy building REST APIs, working with databases, exploring RAG and LLM applic
 │  🏁  40+ Programming Contests                               │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+
+🛠️ Tech Stack
+💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=python,cpp,c,js" /> </p>
+⚙️ Backend & API Development
+<p> <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" /> </p>
+🤖 Generative AI & Machine Learning
+<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> </p>
+
+AI / GenAI: LangChain · RAG · LLM Applications · Ollama
+
+🗄️ Databases & Data
+<p> <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" /> </p>
+
+ORM: SQLAlchemy
+
+🔧 Tools & Development
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" /> </p>
