@@ -28,8 +28,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=RITESH7275&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RITESH7275/RITESH7275/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RITESH7275/RITESH7275/output/github-contribution-grid-snake.svg">
