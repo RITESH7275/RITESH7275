@@ -83,7 +83,7 @@
 <h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
 </p>
 
 <h3 align="center">⚙️ Backend & APIs</h3>
