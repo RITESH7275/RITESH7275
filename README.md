@@ -89,14 +89,10 @@
 <h3 align="center">⚙️ Backend & APIs</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
 </p>
 
 <h3 align="center">🤖 Generative AI & Machine Learning</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
 
 <p align="center">
   <b>LangChain · RAG · LLM Applications · Ollama</b>
@@ -115,7 +111,7 @@
 <h3 align="center">🔧 Tools & Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 <!-- ========================================================= -->
